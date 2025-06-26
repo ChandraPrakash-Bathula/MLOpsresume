@@ -7,7 +7,6 @@ Welcome to my interactive README Resume! I'm a Machine Learning Practitioner, Da
 ## 📬 Get In Touch
 
 - **Email:** [chandu.bathula16@gmail.com](mailto:chandu.bathula16@gmail.com)
-- **Phone:** `+1(314)-723-0206`
 - **LinkedIn:** [Chandra-Prakash](https://www.linkedin.com/in/chandra-prakash-bathula/)
 - **GitHub:** [GitHub Profile](https://github.com/ChandraPrakash-Bathula)
 - **Medium:** [Medium Articles](https://medium.com/@chandu.bathula16)
